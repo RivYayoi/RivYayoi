@@ -28,4 +28,8 @@
 欢迎来到我的博客玩————
 Http://yayoi.top
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=RivYayoi&langs_count=3)](https://github-stats-extended.vercel.app/api/top-langs?username=RivYayoi&langs_count=3)
+<p align="right">
+    <a href="https://github-stats-extended.vercel.app/api/top-langs?username=RivYayoi&langs_count=3">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs?username=RivYayoi&langs_count=3" alt="GitHub Stats" />
+    </a>
+</p>
