@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=d91c25&height=260&section=header&text=上江Yayoi&fontSize=90&animation=fadeIn&fontAlignY=38&desc=不管风吹浪打，胜似闲庭信步&descAlignY=55&descAlign=60"
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=d91c25&height=260&section=header&text=上江Yayoi&fontSize=90&animation=fadeIn&fontAlignY=38&desc=小技等闲聊戏尔，无人知我是真仙&descAlignY=55&descAlign=60"
         width="100%" />
 </div>
 
