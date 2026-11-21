@@ -21,10 +21,6 @@
     <img src="https://img.shields.io/badge/MySQL-553D1F?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
-## 👨‍💻 关于我 
-
-我是一名本科计算机专业的学生，目前正在努力学习全栈开发+Vibe coding
-
 ## 🐧My Blog
 
 欢迎来到我的博客玩————
